@@ -1,0 +1,4 @@
+#chart {
+    height: 100vh; /* vh stands for viewport height */
+    width: 100%; /* vw stands for viewport width */
+  }
